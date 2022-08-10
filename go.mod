@@ -1,4 +1,4 @@
-module volcano.sh/volcano
+module github.com/mystic123/volcano
 
 go 1.14
 
